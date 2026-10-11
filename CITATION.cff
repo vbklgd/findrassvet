@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this methodology or the charts, please cite it as below."
+title: "findrassvet.ru: Rassvet constellation orbit-raising tracker and methodology"
+authors:
+  - family-names: Bulybenko
+    given-names: Viktor
+url: "https://findrassvet.ru"
+repository-code: "https://github.com/vbklgd/findrassvet"
+license: CC-BY-4.0
+date-released: 2026-10-11
+keywords:
+  - Rassvet
+  - Bureau 1440
+  - satellite constellation
+  - orbit raising
+  - SGP4
+  - TLE
