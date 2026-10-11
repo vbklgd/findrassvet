@@ -42,8 +42,8 @@
 
 ## Каналы
 
-- Telegram трекера: [t.me/findrassvet](https://t.me/findrassvet) – графики и события группировки
 - Автор: [Goyda Space](https://t.me/goyda_space)
+- Telegram трекера: [t.me/findrassvet](https://t.me/findrassvet) – ежедневная сводка графиков
 
 ## Данные
 

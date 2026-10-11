@@ -42,8 +42,8 @@ How altitude, raising rate and coverage zones are computed, why this way and how
 
 ## Channels
 
-- Tracker on Telegram: [t.me/findrassvet](https://t.me/findrassvet) – charts and constellation events
 - Author: [Goyda Space](https://t.me/goyda_space)
+- Tracker on Telegram: [t.me/findrassvet](https://t.me/findrassvet) – daily chart digest
 
 ## Data
 
