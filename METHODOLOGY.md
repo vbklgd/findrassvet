@@ -140,7 +140,7 @@ By late August 2026 the right ascensions of the ascending node of the March-laun
 \dot{\Omega} = -\frac{3}{2}\,n\,J_2\left(\frac{R_E}{p}\right)^2\cos i, \qquad p = a\,(1-e^2)
 ```
 
-integrated over each satellite's own altitude history. Three satellites that stayed for months at 348–429 km instead of the operational 508 km accumulated 4.4–4.9° more regression than the rest. In other words, the staircase on the altitude chart is the constellation being spread into planes. The July launch was still a single plane at that time (0.7° spread); the two launches' planes are 113° apart.
+integrated over each satellite's own altitude history. Three satellites that stayed for months at 348–429 km instead of the 508 km intermediate orbit (the target is about 800 km) accumulated 4.4–4.9° more regression than the rest. In other words, the staircase on the altitude chart is the constellation being spread into planes. The July launch was still a single plane at that time (0.7° spread); the two launches' planes are 113° apart.
 
 ## 6. How to cite
 
